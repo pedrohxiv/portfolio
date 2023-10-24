@@ -1,0 +1,70 @@
+{
+  "navbar": {
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Olá, eu sou",
+    "subtitles": [
+      "Desenvolvedor Web",
+      "Desenvolvedor Mobile",
+      "Desenvolvedor Full Stack"
+    ],
+    "description": "Um desenvolvedor apaixonado por transformar ideias em código. Minha paixão pela programação me levou a criar experiências digitais envolventes e responsivas, tanto para web quanto para mobile. Estou sempre em busca de desafios para aprimorar minhas habilidades e contribuir de forma significativa para projetos e empresas, com foco na qualidade e inovação.",
+    "buttons": ["Contrate-me", "Baixar currículo"]
+  },
+  "achievements": {
+    "metrics": [
+      "Projetos",
+      "Conexões no Linkedin",
+      "Certificados",
+      "Anos de experiência"
+    ]
+  },
+  "about": {
+    "title": "Sobre mim",
+    "description": "Com experiência sólida no desenvolvimento web e mobile, abrangendo frontend e backend, utilizo tecnologias avançadas como React, React Native, Next.js, Node.js, Express, Sequelize, Prisma, Typescript, Redux, Testing Library, Jest e Mocha para criar soluções inovadoras e eficientes.",
+    "columns": ["Habilidades", "Educação", "Certificações"],
+    "educations": [
+      "IFMG Campus Formiga, Ensino Médio - Informática, 2016 - 2019",
+      "IFMG Campus Formiga, Bacharelado Ciência da Computação, 2020 - 2021",
+      "Trybe, Curso de Desenvolvimento Web, 2022 - 2023"
+    ],
+    "certifications": [
+      "Certificado de Fundamentos do Desenvolvimento Web - Trybe",
+      "Certificado de Desenvolvimento Front-End - Trybe",
+      "Certificado de Desenvolvimento Back-End - Trybe",
+      "Certificado de Ciência da Computação - Trybe",
+      "Certificado de Certificação Eletiva em Python - Trybe",
+      "Certificado de Formação em Desenvolvimento Full-Stack com especialização em Python - Trybe"
+    ]
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "tags": ["Todos", "Web", "Mobile"],
+    "descriptions": [
+      "Conversação com Personagem IA",
+      "Ferramenta de IA",
+      "Clone da plataforma Discord",
+      "Sistema de gestão de aprendizagem",
+      "Aplicativo de comércio eletrônico",
+      "Aplicativo de entrega de alimentos"
+    ]
+  },
+  "contact": {
+    "title": "Vamos nos Conectar",
+    "description": "Atualmente estou em busca de novas oportunidades, meu email está sempre aberto. Envie uma mensagem para o que quiser, farei o possível para entrar em contato com você!",
+    "email": ["Seu email", "joao@email.com"],
+    "subject": ["Assunto", "Oportunidade de Colaboração"],
+    "message": [
+      "Mensagem",
+      "Olá, estou interessado em discutir uma possível colaboração contigo. Por favor, deixe-me saber quando você está disponível para conversar. Obrigado!"
+    ],
+    "button": "Enviar Mensagem",
+    "emailSubmitted": "E-mail enviado com sucesso!"
+  },
+  "footer": {
+    "title": "Todos os direitos reservados."
+  }
+}

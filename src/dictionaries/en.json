@@ -1,0 +1,66 @@
+{
+  "navbar": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Hello, I'm",
+    "subtitles": ["Web Developer", "Mobile Developer", "Full Stack Developer"],
+    "description": "A developer passionate about turning ideas into code. My love for programming has led me to create engaging and responsive digital experiences, both for web and mobile platforms. I'm constantly seeking challenges to enhance my skills and make meaningful contributions to projects and companies, always prioritizing quality and innovation.",
+    "buttons": ["Hire Me", "Download CV"]
+  },
+  "achievements": {
+    "metrics": [
+      "Projects",
+      "Connections on Linkedin",
+      "Certificates",
+      "Years of experience"
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "With a strong background in web and mobile development, spanning both frontend and backend, I specialize in advanced technologies such as React, React Native, Next.js, Node.js, Express, Sequelize, Prisma, Typescript, Redux, Testing Library, Jest, and Mocha. I leverage these tools to craft innovative and efficient solutions.",
+    "columns": ["Skills", "Education", "Certifications"],
+    "educations": [
+      "IFMG Campus Formiga, High School - Informatics, 2016 - 2019",
+      "IFMG Campus Formiga, Bachelor's Degree in Computer Science, 2020 - 2021",
+      "Trybe, Web Development Course, 2022 - 2023"
+    ],
+    "certifications": [
+      "Fundamentals of Web Development Certificate - Trybe",
+      "Front-End Development Certificate - Trybe",
+      "Back-End Development Certificate - Trybe",
+      "Computer Science Certificate - Trybe",
+      "Python Elective Certification Certificate - Trybe",
+      "Training Certificate in Full-Stack Development with specialization in Python - Trybe"
+    ]
+  },
+  "projects": {
+    "title": "My Projects",
+    "tags": ["All", "Web", "Mobile"],
+    "descriptions": [
+      "Conversation with AI Character",
+      "AI Tool",
+      "Discord platform clone",
+      "Learning Management System",
+      "Ecommerce Application",
+      "Food delivery app"
+    ]
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "description": "I'm currently looking for new opportunities, my email is always open. Send a message to whatever you want, I'll do my best to get in touch with you!",
+    "email": ["Your email", "david@email.com"],
+    "subject": ["Subject", "Collaboration Opportunity"],
+    "message": [
+      "Message",
+      "Hi, I'm interested in discussing a possible collaboration with you. Please let me know when you are available to talk. Thanks!"
+    ],
+    "button": "Send Message",
+    "emailSubmitted": "Email sent successfully!"
+  },
+  "footer": {
+    "title": "All rights reserved."
+  }
+}

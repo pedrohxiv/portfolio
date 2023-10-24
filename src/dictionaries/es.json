@@ -1,0 +1,70 @@
+{
+  "navbar": {
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Hola, soy",
+    "subtitles": [
+      "Desarrollador Web",
+      "Desarrollador Móvil",
+      "Desarrollador Full Stack"
+    ],
+    "description": "Un desarrollador apasionado por convertir ideas en código. Mi amor por la programación me ha llevado a crear experiencias digitales atractivas y receptivas, tanto para plataformas web como móviles. Siempre estoy en busca de desafíos para mejorar mis habilidades y realizar contribuciones significativas a proyectos y empresas, siempre dando prioridad a la calidad y la innovación.",
+    "buttons": ["Contratame", "Descargar CV"]
+  },
+  "achievements": {
+    "metrics": [
+      "Proyectos",
+      "Conexiones en Linkedin",
+      "Certificados",
+      "Años de experiencia"
+    ]
+  },
+  "about": {
+    "title": "Acerca de mí",
+    "description": "Con una sólida experiencia en desarrollo web y móvil, que abarca tanto el frontend como el backend, me especializo en tecnologías avanzadas como React, React Native, Next.js, Node.js, Express, Sequelize, Prisma, Typescript, Redux, Testing Library, Jest y Mocha. Utilizo estas herramientas para crear soluciones innovadoras y eficientes.",
+    "columns": ["Habilidades", "Educación", "Certificaciones"],
+    "educations": [
+      "IFMG Campus Formiga, Bachillerato - Informática, 2016 - 2019",
+      "IFMG Campus Formiga, Licenciatura en Informática, 2020 - 2021",
+      "Trybe, Curso de Desarrollo Web, 2022 - 2023"
+    ],
+    "certifications": [
+      "Certificado de Fundamentos de Desarrollo Web - Trybe",
+      "Certificado de desarrollo front-end - Trybe",
+      "Certificado de desarrollo back-end - Trybe",
+      "Certificado de Ciencias de la Computación - Trybe",
+      "Certificado de certificación optativa de Python - Trybe",
+      "Certificado de Formación en Desarrollo Full-Stack con especialización en Python - Trybe"
+    ]
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "tags": ["Todo", "Web", "Mobile"],
+    "descriptions": [
+      "Conversación con el personaje de IA",
+      "Herramienta de IA",
+      "Clon de plataforma Discord",
+      "Sistema para el manejo del aprendimiento",
+      "Aplicación de comercio electrónico",
+      "Aplicación de entrega de comida"
+    ]
+  },
+  "contact": {
+    "title": "Conectemos",
+    "description": "Actualmente estoy buscando nuevas oportunidades, mi correo electrónico siempre está abierto. Envía un mensaje a lo que quieras, ¡haré todo lo posible para comunicarme contigo!",
+    "email": ["Su email", "manuel@email.com"],
+    "subject": ["Sujeto", "Oportunidad de Colaboración"],
+    "message": [
+      "Mensaje",
+      "Hola, estoy interesado en discutir una posible colaboración con usted. Por favor, avíseme cuando esté disponible para hablar. ¡Gracias!"
+    ],
+    "button": "Enviar Mensaje",
+    "emailSubmitted": "¡Email enviado exitosamente!"
+  },
+  "footer": {
+    "title": "Reservados todos los derechos."
+  }
+}
