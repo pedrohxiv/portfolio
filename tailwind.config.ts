@@ -24,8 +24,8 @@ const config: Config = {
     },
     colors: {
       ...colors,
-      primary: colors.indigo,
-      secondary: colors.teal,
+      primary: colors.purple,
+      secondary: colors.fuchsia,
     },
   },
   plugins: [],
